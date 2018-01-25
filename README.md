@@ -1,8 +1,11 @@
 # BurpExtenderForge
 An Extender for Burp Suite allowing you to quickly craft Extenders in Burp.
 
+I felt like starting my first open source Burp Extender in a fairly meta mood. Looks like this:
+
 ![BurpExtenderForge showing an Extender Tab](02-ExtenderForge.png "BurpExtenderForge showing an Extender Tab")
 
+A basic python development env within burp and some example extenders really.
 
 # Install Instructions
 
