@@ -34,6 +34,7 @@ Modify the code in these tabs and then click "Enable Temporarily" to try that Ex
 # Future Development
 
 Refactor to allow a "File" -> "New" -> "Select Template" workflow. So the tabs are only ones you have decided to author.
+
 Add in more template files to cover more possible Extender types.
 
 # Other Information
