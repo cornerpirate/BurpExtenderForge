@@ -1,6 +1,9 @@
 # BurpExtenderForge
 An Extender for Burp Suite allowing you to quickly craft Extenders in Burp.
 
+![BurpExtenderForge showing an Extender Tab](02-ExtenderForge.png "BurpExtenderForge showing an Extender Tab")
+
+
 # Install Instructions
 
 Clone the repository or download the zip file. If you are interested in the source code it is within "/src". However, if you just want the compiled Extender you will only need the contents of the /dist/ folder.
